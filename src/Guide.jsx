@@ -11,7 +11,7 @@ const Guide = () => {
       const res = await fetch("https://openrouter.ai/api/v1/chat/completions", {
         method: 'POST',
         headers: {
-          'Authorization': 'Bearer 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',
+          'Authorization': 'Bearer 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',
           'Content-Type': 'application/json'
         },
         body: JSON.stringify({
