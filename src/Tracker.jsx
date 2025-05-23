@@ -40,7 +40,7 @@ const Tracker = () => {
       const response = await fetch("https://openrouter.ai/api/v1/chat/completions", {
         method: 'POST',
         headers: {
-          'Authorization': 'Bearer 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',
+          'Authorization': 'Bearer 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',
           
           'Content-Type': 'application/json'
         },
