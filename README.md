@@ -54,7 +54,7 @@ ter business is a simple yet powerful business tracking app built for small busi
 
 this app was built as part of a software development challenge to empower small business owners with a beginner-friendly digital tool that’s both educational and practical. it’s also aligned with the developer's journey to becoming a full-stack developer and contributing real-world solutions through code.
 
-
+## ⚠️ Note: The AI advice feature may be temporarily unavailable due to OpenAI API key limits. The code logic is in place, and can be reactivated with a valid key.
 
 ## 🙋‍♂️ author
 
