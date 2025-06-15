@@ -42,7 +42,7 @@ ter business is a simple yet powerful business tracking app built for small busi
 ## 📸 Screenshots
 
 ### 🏠 Home Page/My Tracker
-![Home page/My Tracker](public/trscker.jpg)
+![Home page/My Tracker](public/mytracker.jpg)
 
 ### ➕ AI start up Guide
 ![AI start up Guide](public/startupai.jpg)
