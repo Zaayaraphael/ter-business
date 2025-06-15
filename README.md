@@ -39,6 +39,16 @@ ter business is a simple yet powerful business tracking app built for small busi
 - 📈 export reports in pdf/csv format
 
 
+## 📸 Screenshots
+
+### 🏠 Home Page/My Tracker
+![Home page/My Tracker](public/trscker.jpg)
+
+### ➕ AI start up Guide
+![AI start up Guide](public/startupai.jpg)
+
+### 🤖 Business Tips
+![Business Tips](public/biztip.jpg)
 
 ## 💡 inspiration
 
