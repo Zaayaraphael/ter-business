@@ -5,7 +5,7 @@
 
 **live demo:** [click here to use the app](https://zaayaraphael.github.io/ter-business/)
 
-ter business is a simple yet powerful business tracking app built for small business owners, students, and entrepreneurs. it helps users manage daily sales and expenses, calculate profits, generate receipts, and even receive ai-powered business advice — all in one place.
+Ter business is a simple yet powerful business tracking app built for small business owners, students, and entrepreneurs. it helps users manage daily sales and expenses, calculate profits, generate receipts, and even receive ai-powered business advice — all in one place.
 
 
 
